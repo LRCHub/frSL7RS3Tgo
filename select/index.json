@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "In Your Pocket",
+  "base_artist": "Ricky Montgomery",
+  "createdAt": "2026-03-31T08:02:39.662091Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dust In Your Pocket",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/01_Dust_In_Your_Pocket_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In Your Pocket",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/02_In_Your_Pocket_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pick It Up (And Put It In Your Pocket)",
+      "artist": "Stan Ridgway",
+      "has_synced": true,
+      "path": "select/03_Pick_It_Up_(And_Put_It_In_Your_Pocket)_Stan_Ridgway.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Painter in Your Pocket",
+      "artist": "Destroyer",
+      "has_synced": false,
+      "path": "select/04_Painter_in_Your_Pocket_Destroyer.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Moon In Your Pocket",
+      "artist": "Masters of Reality",
+      "has_synced": false,
+      "path": "select/05_The_Moon_In_Your_Pocket_Masters_of_Reality.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You've Got Her in Your Pocket",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/06_You've_Got_Her_in_Your_Pocket_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You've Got Her In Your Pocket - Live from Belfast",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/07_You've_Got_Her_In_Your_Pocket_-_Live_from_Belfast_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You've Got Her In Your Pocket (Live)",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/08_You've_Got_Her_In_Your_Pocket_(Live)_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You've Got Her In Your Pocket",
+      "artist": "Jack White",
+      "has_synced": true,
+      "path": "select/09_You've_Got_Her_In_Your_Pocket_Jack_White.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Put a Flower in Your Pocket",
+      "artist": "The Arcs",
+      "has_synced": true,
+      "path": "select/10_Put_a_Flower_in_Your_Pocket_The_Arcs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Put a Flower in Your Pocket (Explicit)",
+      "artist": "The Arcs",
+      "has_synced": true,
+      "path": "select/11_Put_a_Flower_in_Your_Pocket_(Explicit)_The_Arcs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hands in Your Pocket",
+      "artist": "Richard Marx",
+      "has_synced": false,
+      "path": "select/12_Hands_in_Your_Pocket_Richard_Marx.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In Your Pocket",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/13_In_Your_Pocket_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You've Got Her In Your Pocket",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/14_You've_Got_Her_In_Your_Pocket_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In Your Pocket",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/15_In_Your_Pocket_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Keep Me In Your Pocket",
+      "artist": "Charlotte Martin",
+      "has_synced": false,
+      "path": "select/16_Keep_Me_In_Your_Pocket_Charlotte_Martin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In Your Pocket",
+      "artist": "Ricky Montgomery",
+      "has_synced": false,
+      "path": "select/pl_01_In_Your_Pocket_Ricky_Montgomery.txt"
+    }
+  ]
+}
